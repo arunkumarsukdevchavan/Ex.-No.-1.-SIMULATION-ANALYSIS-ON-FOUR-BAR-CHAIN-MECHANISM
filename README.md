@@ -53,10 +53,11 @@
 
 
 ## Output:
+![output](https://user-images.githubusercontent.com/119393424/240235134-b696cf73-f5ad-43a0-9929-ebf212d5db15.png)
 
 
-### Name:
-### Register Number: 
+### Name:ARUN KUMAR SUKDEV CHAVAN
+### Register Number: 212222230013
 
 ## RESULT:
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
